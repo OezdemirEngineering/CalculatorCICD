@@ -36,7 +36,7 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=OezdemirEngineering_CalculatorCICD
-            -Dsonar.organization=OezdemirEngineering
+            -Dsonar.organization=oezdemirengineering
             -Dsonar.verbose=true
 
       - name: Restore
