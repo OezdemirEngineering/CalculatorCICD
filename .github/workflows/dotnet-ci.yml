@@ -35,8 +35,8 @@ jobs:
           SONAR_HOST_URL: "https://sonarcloud.io"
         with:
           args: >
-            -Dsonar.projectKey=YOUR_PROJECT_KEY
-            -Dsonar.organization=YOUR_ORG_KEY
+            -Dsonar.projectKey=OezdemirEngineering_CalculatorCICD
+            -Dsonar.organization=OezdemirEngineering
             -Dsonar.verbose=true
 
       - name: Restore
