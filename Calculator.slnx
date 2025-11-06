@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Calculator.Tests/Calculator.Tests.csproj" />
+  <Project Path="Calculator/Calculator.csproj" />
+  <Project Path="Geometries.Tests/Geometries.Tests.csproj" />
+  <Project Path="Geometries/Geometries.csproj" />
+</Solution>
