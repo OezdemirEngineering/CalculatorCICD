@@ -3,4 +3,5 @@
   <Project Path="Calculator/Calculator.csproj" />
   <Project Path="Geometries.Tests/Geometries.Tests.csproj" />
   <Project Path="Geometries/Geometries.csproj" />
+  <Project Path="LoginView/LoginView.csproj" Id="d85c68e7-6221-4ef1-80ec-9eb4ff85805a" />
 </Solution>
